@@ -30,5 +30,7 @@ Requires a decent camera
 
 # Reference
 https://www.geeksforgeeks.org/introduction-to-opencv/
+
 https://www.youtube.com/watch?v=_-GkbBsDGhw
+
 https://www.youtube.com/watch?v=9iEPzbG-xLE&t=292s
