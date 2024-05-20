@@ -11,23 +11,6 @@ Mediapipe is an open-source machine learning library of Google, which has some s
 # Working Principle
 The camera in our device is used for this project. It detects our hand with points in it so as it can see the distance between our thumb finger tip and index finger tip. The distance between the points 4 and 8 is directly proportional to the volume of device.
 
-# Methodology/Approach
-Detect hand landmarks
-Calculate the distance between thumb tip and index finger tip.
-Map the distance of thumb tip and index finger tip with volume range. For my case, distance between thumb tip and index finger tip was within the range of 30 – 350 and the volume range was from -63.5 – 0.0.
-In order to exit press ‘Spacebar'
-
-# Advantages:
-Easy to use
-Hassle free
-Fun to use
-More interactive
-
-# Disadvantages:
-Cant be used for long distance
-Sometimes not accurate
-Requires a decent camera
-
 # Reference
 https://www.geeksforgeeks.org/introduction-to-opencv/
 
